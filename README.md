@@ -4,6 +4,6 @@ First-year **Computer Science** student focusing on algorithmic problem solving,
 
 - **Languages:** C++, Python
 - **Focus Areas:** Data Structures, Algorithms, Competitive Programming (ICPC), Linux & Systems
-- **Profiles:** [LinkedIn](https://linkedin.com/in/youssefaxiom) • [Codeforces](https://codeforces.com/profile/YoussefAxiom) • [LeetCode](https://leetcode.com/u/YoussefAxiom)
+- **Profiles:** [LinkedIn](https://linkedin.com/in/youssefaxiom) • [Codeforces](https://codeforces.com/profile/Youssef_CS) • [LeetCode](https://leetcode.com/u/YoussefAxiom)
 
 > *"How long are you going to wait before you demand the best for yourself?" — Epictetus*
